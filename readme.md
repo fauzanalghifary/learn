@@ -101,3 +101,6 @@
 ### Youtube
 
 - https://www.youtube.com/@Fireship
+- https://www.youtube.com/@JesseShowalter
+- https://www.youtube.com/@MalewiczHype
+- https://www.youtube.com/@TheFuturAcademy
