@@ -58,6 +58,8 @@
 
 ### Docs
 
+- https://nestjs.com
+- https://go.dev
 - https://guides.rubyonrails.org
 
 ## GENERAL
