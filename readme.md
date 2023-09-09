@@ -7,6 +7,7 @@
 - https://www.greatfrontend.com
 - https://www.frontendmentor.io
 - https://devchallenges.io
+- https://react.gg
 - https://www.fe.engineer
 
 ### Blog
