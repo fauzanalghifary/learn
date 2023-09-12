@@ -15,6 +15,7 @@
 - https://kentcdodds.com/blog
 - https://www.pronextjs.dev
 - https://tkdodo.eu/blog/all
+- https://www.joshwcomeau.com
 
 ### Youtube
 
