@@ -25,6 +25,7 @@
 - https://www.youtube.com/@ChromeDevs
 - https://www.youtube.com/@developedbyed
 - https://www.youtube.com/@uidotdev
+- https://www.youtube.com/@joshtriedcoding
 
 ### Docs
 
