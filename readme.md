@@ -4,28 +4,28 @@
 
 ### Fundamentals and Practice
 
-- https://www.greatfrontend.com
-- https://www.frontendmentor.io
+- https://greatfrontend.com
+- https://frontendmentor.io
 - https://devchallenges.io
 - https://react.gg
-- https://www.fe.engineer
+- https://fe.engineer
 
 ### Blog
 
 - https://kentcdodds.com/blog
-- https://www.pronextjs.dev
+- https://pronextjs.dev
 - https://tkdodo.eu/blog/all
-- https://www.joshwcomeau.com
+- https://joshwcomeau.com
 
 ### Youtube
 
-- https://www.youtube.com/@t3dotgg
-- https://www.youtube.com/@jherr
-- https://www.youtube.com/@KevinPowell
-- https://www.youtube.com/@ChromeDevs
-- https://www.youtube.com/@developedbyed
-- https://www.youtube.com/@uidotdev
-- https://www.youtube.com/@joshtriedcoding
+- https://youtube.com/@t3dotgg
+- https://youtube.com/@jherr
+- https://youtube.com/@KevinPowell
+- https://youtube.com/@ChromeDevs
+- https://youtube.com/@developedbyed
+- https://youtube.com/@uidotdev
+- https://youtube.com/@joshtriedcoding
 
 ### Docs
 
@@ -56,8 +56,8 @@
 
 ### Youtube
 
-- https://www.youtube.com/@hnasr
-- https://www.youtube.com/@ByteByteGo
+- https://youtube.com/@hnasr
+- https://youtube.com/@ByteByteGo
 
 ### Docs
 
@@ -77,38 +77,38 @@
 
 ### Online Course
 
-- https://www.udemy.com
+- https://udemy.com
 
 ### Youtube
 
-- https://www.youtube.com/@Fireship
-- https://www.youtube.com/@mattpocockuk
-- https://www.youtube.com/@MelkeyDev
-- https://www.youtube.com/@ThePrimeagen
-- https://www.youtube.com/@ThePrimeTimeagen
-- https://www.youtube.com/@bmdavis419
-- https://www.youtube.com/@bigboxSWE
-- https://www.youtube.com/@ContinuousDelivery
-- https://www.youtube.com/@ProgrammerZamanNow
-- https://www.youtube.com/@NeetCode
+- https://youtube.com/@Fireship
+- https://youtube.com/@mattpocockuk
+- https://youtube.com/@MelkeyDev
+- https://youtube.com/@ThePrimeagen
+- https://youtube.com/@ThePrimeTimeagen
+- https://youtube.com/@bmdavis419
+- https://youtube.com/@bigboxSWE
+- https://youtube.com/@ContinuousDelivery
+- https://youtube.com/@ProgrammerZamanNow
+- https://youtube.com/@NeetCode
 
 ### Youtube (Tutorial)
 
-- https://www.youtube.com/@NetNinja
-- https://www.youtube.com/@academind
-- https://www.youtube.com/@WebDevSimplified
+- https://youtube.com/@NetNinja
+- https://youtube.com/@academind
+- https://youtube.com/@WebDevSimplified
 
 ### DS & ALGO
 
-- https://www.codewars.com
-- https://www.leetcode.com
-- https://www.hackerrank.com
-- https://www.algoexpert.io
+- https://codewars.com
+- https://leetcode.com
+- https://hackerrank.com
+- https://algoexpert.io
 
 ## UI/UX
 
 ### Youtube
 
-- https://www.youtube.com/@JesseShowalter
-- https://www.youtube.com/@MalewiczHype
-- https://www.youtube.com/@TheFuturAcademy
+- https://youtube.com/@JesseShowalter
+- https://youtube.com/@MalewiczHype
+- https://youtube.com/@TheFuturAcademy
