@@ -91,6 +91,7 @@
 - https://youtube.com/@ContinuousDelivery
 - https://youtube.com/@ProgrammerZamanNow
 - https://youtube.com/@NeetCode
+- https://youtube.com/@StefanMischook
 
 ### Youtube (Tutorial)
 
