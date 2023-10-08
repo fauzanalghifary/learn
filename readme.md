@@ -58,6 +58,7 @@
 
 - https://youtube.com/@hnasr
 - https://youtube.com/@ByteByteGo
+  https://youtube.com/@IAmTimCorey
 
 ### Docs
 
