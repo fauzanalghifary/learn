@@ -29,6 +29,8 @@
 
 ### Docs
 
+ini paragraf
+
 - React and NextJS
   - https://react.dev/learn
   - https://nextjs.org/docs
@@ -93,6 +95,7 @@
 - https://youtube.com/@ProgrammerZamanNow
 - https://youtube.com/@NeetCode
 - https://youtube.com/@StefanMischook
+- https://youtube.com/@dreamsofcode
 
 ### Youtube (Tutorial)
 
