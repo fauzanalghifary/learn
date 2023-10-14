@@ -94,6 +94,7 @@
 - https://youtube.com/@NeetCode
 - https://youtube.com/@StefanMischook
 - https://youtube.com/@dreamsofcode
+- https://youtube.com/@NoBoilerplate
 
 ### Youtube (Tutorial)
 
