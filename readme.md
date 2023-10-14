@@ -29,8 +29,6 @@
 
 ### Docs
 
-ini paragraf
-
 - React and NextJS
   - https://react.dev/learn
   - https://nextjs.org/docs
