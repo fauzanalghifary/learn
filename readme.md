@@ -33,6 +33,7 @@
 - React and NextJS
   - https://react.dev/learn
   - https://nextjs.org/docs
+  - https://nextjs.org/learn
 - Server State Management
   - https://react-query.tanstack.com
   - https://swr.vercel.app
