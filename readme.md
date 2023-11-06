@@ -97,6 +97,7 @@
 - https://youtube.com/@StefanMischook
 - https://youtube.com/@dreamsofcode
 - https://youtube.com/@NoBoilerplate
+- https://www.youtube.com/@codewithryan
 
 ### Youtube (Tutorial)
 
