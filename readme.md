@@ -61,7 +61,8 @@
 
 - https://youtube.com/@hnasr
 - https://youtube.com/@ByteByteGo
-- https://youtube.com/@IAmTimCorey
+- https://youtube.com/@IAmTimCorey (C#)
+- https://youtube.com/@aarondfrancis (PHP)
 
 ### Docs
 
