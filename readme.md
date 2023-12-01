@@ -28,6 +28,7 @@
 - https://youtube.com/@uidotdev
 - https://youtube.com/@joshtriedcoding
 - https://youtube.com/@javascriptmastery
+- https://youtube.com/@CoderOne
 
 ### Docs
 
