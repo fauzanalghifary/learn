@@ -103,6 +103,7 @@
 - https://www.youtube.com/@codewithryan
 - https://www.youtube.com/@CodeAesthetic
 - https://www.youtube.com/@Coderized
+- https://www.youtube.com/@TravisMedia
 
 ### Youtube (Tutorial)
 
