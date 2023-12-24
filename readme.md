@@ -102,6 +102,7 @@
 - https://youtube.com/@NoBoilerplate
 - https://www.youtube.com/@codewithryan
 - https://www.youtube.com/@CodeAesthetic
+- https://www.youtube.com/@Coderized
 
 ### Youtube (Tutorial)
 
