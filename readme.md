@@ -17,6 +17,7 @@
 - https://tkdodo.eu/blog/all
 - https://joshwcomeau.com
 - https://www.epicweb.dev/articles
+- https://overreacted.io/
 
 ### Youtube
 
