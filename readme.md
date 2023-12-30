@@ -18,6 +18,7 @@
 - https://joshwcomeau.com
 - https://www.epicweb.dev/articles
 - https://overreacted.io/
+- https://2019.wattenberger.com/blog
 
 ### Youtube
 
