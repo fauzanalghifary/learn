@@ -106,6 +106,7 @@
 - https://www.youtube.com/@CodeAesthetic
 - https://www.youtube.com/@Coderized
 - https://www.youtube.com/@TravisMedia
+- https://www.youtube.com/@WebDevCody
 
 ### Youtube (Tutorial)
 
