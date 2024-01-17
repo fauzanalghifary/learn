@@ -82,6 +82,7 @@
 ### Blog & Newsletter
 
 - https://newsletter.pragmaticengineer.com
+- https://www.swyx.io/
 
 ### Online Course
 
