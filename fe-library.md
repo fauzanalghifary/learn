@@ -1,7 +1,9 @@
-### Animation
+# Frontend Library
+
+## Animation
 
 - https://www.framer.com/motion/
 
-### Icon
+## Icon
 
 - https://lucide.dev/
