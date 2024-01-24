@@ -8,6 +8,7 @@
 
 - https://newsletter.pragmaticengineer.com
 - https://www.swyx.io/
+- https://www.bitnative.com/
 
 ## Online Course
 
