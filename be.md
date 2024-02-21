@@ -3,6 +3,7 @@
 ## Blog & Newsletters
 
 - https://blog.bytebytego.com
+- https://www.alexedwards.net/blog (GO)
 
 ## Youtube
 
