@@ -2,15 +2,42 @@
 
 Keyword from ByteByteGO Youtube Channel:
 
+- Algorithm: Bloom Filters
+- API Gateway
+- Bare Metal
 - Cache
-- Data Structure
+- Container
+- CPU
+- Data Structure: B-Tree
+- Data Structure: LSM Tree
+- Database
+- Database NoSQL
+- Database Replication
+- Database Sharding
+- Disk
+- Distributed System
 - DNS
+- Event Streaming
+- Hashing
+- Hashing Salt
 - HTTP
 - Kafka
 - Kernel
 - Latency
+- Memory
+- Message Brokers
+- Microservices
+- Monolithic
 - OS
+- Queries per second
+- Redis
+- Requests per second
+- REST API
+- RPC
+- Scaling (Horizontal/Vertical)
 - Socket
 - TCP
 - Throughput
+- UDP
+- Virtual Machine
 - Web Server
