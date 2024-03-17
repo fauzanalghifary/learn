@@ -3,9 +3,15 @@
 Keyword from ByteByteGO Youtube Channel:
 
 - Algorithm: Bloom Filters
+- API: REST API
+- API: GraphQL
+- API: gRPC
 - API Gateway
+- Authentication
+- Authentication: SSO
 - Bare Metal
 - Cache
+- CDN
 - Container
 - CPU
 - Data Structure: B-Tree
@@ -24,15 +30,16 @@ Keyword from ByteByteGO Youtube Channel:
 - Kafka
 - Kernel
 - Latency
+- Load Balancer
 - Memory
 - Message Brokers
 - Microservices
 - Monolithic
 - OS
 - Queries per second
+- Proxy (Forward/Reverse)
 - Redis
 - Requests per second
-- REST API
 - RPC
 - Scaling (Horizontal/Vertical)
 - Socket
