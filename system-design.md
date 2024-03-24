@@ -1,6 +1,6 @@
 # ByteByteGO Youtube Channel
 
-Keyword from ByteByteGO Youtube Channel (https://www.youtube.com/@ByteByteGo/videos):
+Keyword from ByteByteGO YT Channel (https://www.youtube.com/@ByteByteGo/videos):
 
 - Algorithm: Bloom Filters
 - API: REST API
