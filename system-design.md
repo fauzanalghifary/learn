@@ -11,6 +11,7 @@ Keyword from ByteByteGO YT Channel (https://www.youtube.com/@ByteByteGo/videos):
 - Authentication: SSO
 - Bare Metal
 - Cache
+- CAP Theorem (Consistency, Availability, Partition Tolerance)
 - CI/CD
 - CDN
 - Container
