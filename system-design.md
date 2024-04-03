@@ -11,6 +11,7 @@ Keyword from ByteByteGO YT Channel (https://www.youtube.com/@ByteByteGo/videos):
 - Authentication: SSO
 - Bare Metal
 - Cache
+- CI/CD
 - CDN
 - Container
 - CPU
@@ -22,6 +23,7 @@ Keyword from ByteByteGO YT Channel (https://www.youtube.com/@ByteByteGo/videos):
 - Database Sharding
 - Disk
 - Distributed System
+- Docker
 - DNS
 - Event Streaming
 - Hashing
@@ -29,6 +31,7 @@ Keyword from ByteByteGO YT Channel (https://www.youtube.com/@ByteByteGo/videos):
 - HTTP
 - Kafka
 - Kernel
+- Kubernetes
 - Latency
 - Load Balancer
 - Memory
