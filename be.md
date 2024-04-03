@@ -3,7 +3,6 @@
 ## Blog & Newsletters
 
 - https://blog.bytebytego.com
-- https://www.alexedwards.net/blog (GO)
 
 ## Youtube
 
@@ -15,5 +14,12 @@
 ## Docs
 
 - https://nestjs.com
-- https://go.dev
 - https://guides.rubyonrails.org
+
+## GO
+
+- https://go.dev
+- https://quii.gitbook.io/learn-go-with-tests
+- https://gophercises.com
+- https://www.ardanlabs.com/ultimate-go-notebook
+- https://www.alexedwards.net/blog
