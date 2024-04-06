@@ -12,8 +12,10 @@ Keyword from ByteByteGO YT Channel (https://www.youtube.com/@ByteByteGo/videos):
 - Bare Metal
 - Cache
 - CAP Theorem (Consistency, Availability, Partition Tolerance)
-- CI/CD
 - CDN
+- CI/CD
+- Cloud Computing
+- Cloud Native
 - Container
 - CPU
 - Data Structure: B-Tree
