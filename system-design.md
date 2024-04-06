@@ -3,10 +3,23 @@
 Keyword from ByteByteGO YT Channel (https://www.youtube.com/@ByteByteGo/videos):
 
 - Algorithm: Bloom Filters
+- Algorithm: Consistent Hashing
+- Algorithm: Geohashing
+- Algorithm: Leaky Bucket
+- Algorithm: Token Bucket
+- Algorithm: Quadtree
+- Algorithm: Raft/Paxos
+- Algorithm: Trie
+- Apache Kafka
 - API: REST API
 - API: GraphQL
 - API: gRPC
 - API Gateway
+- Architecture: Event-Driven Architecture
+- Architecture: Layered Architecture
+- Architecture: Microkernel Architecture
+- Architecture: Microservices Architecture
+- Architecture: Monolithic Architecture
 - Authentication
 - Authentication: SSO
 - Bare Metal
@@ -17,6 +30,8 @@ Keyword from ByteByteGO YT Channel (https://www.youtube.com/@ByteByteGo/videos):
 - Cloud Computing
 - Cloud Native
 - Container
+- Circuit Breaker
+- CQRS (Command Query Responsibility Segregation)
 - CPU
 - Data Structure: B-Tree
 - Data Structure: LSM Tree
@@ -24,10 +39,16 @@ Keyword from ByteByteGO YT Channel (https://www.youtube.com/@ByteByteGo/videos):
 - Database NoSQL
 - Database Replication
 - Database Sharding
+- Deployment Strategies: Big Bang Deployment
+- Deployment Strategies: Rolling Deployment
+- Deployment Strategies: Blue-Green Deployment
+- Deployment Strategies: Canary Deployment
+- Deployment Strategies: Feature Toggles
 - Disk
 - Distributed System
 - Docker
 - DNS
+- Event Sourcing
 - Event Streaming
 - Hashing
 - Hashing Salt
@@ -41,9 +62,19 @@ Keyword from ByteByteGO YT Channel (https://www.youtube.com/@ByteByteGo/videos):
 - Message Brokers
 - Microservices
 - Monolithic
+- Monorepo
+- Network Protocol: HTTP and HTTPS
+- Network Protocol: TCP
+- Network Protocol: UDP
+- Network Protocol: Web Socket
+- Network Protocol: SMTP
+- Network Protocol: FTP
+- OAuth 2.0
 - OS
 - Queries per second
+- Pooling
 - Proxy (Forward/Reverse)
+- Pub/Sub
 - Redis
 - Requests per second
 - RPC
@@ -55,4 +86,6 @@ Keyword from ByteByteGO YT Channel (https://www.youtube.com/@ByteByteGo/videos):
 - Throughput
 - UDP
 - Virtual Machine
+- Webhook
 - Web Server
+- Web Socket
