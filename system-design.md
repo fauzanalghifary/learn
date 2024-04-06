@@ -48,7 +48,9 @@ Keyword from ByteByteGO YT Channel (https://www.youtube.com/@ByteByteGo/videos):
 - Requests per second
 - RPC
 - Scaling (Horizontal/Vertical)
+- Serverless
 - Socket
+- Storage
 - TCP
 - Throughput
 - UDP
