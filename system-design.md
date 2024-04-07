@@ -22,6 +22,8 @@ Keyword from ByteByteGO YT Channel (https://www.youtube.com/@ByteByteGo/videos):
 - Architecture: Monolithic Architecture
 - Authentication
 - Authentication: SSO
+- Authentication: JWT
+- Authentication: OAuth
 - Bare Metal
 - Cache
 - CAP Theorem (Consistency, Availability, Partition Tolerance)
@@ -36,6 +38,7 @@ Keyword from ByteByteGO YT Channel (https://www.youtube.com/@ByteByteGo/videos):
 - Data Structure: B-Tree
 - Data Structure: LSM Tree
 - Database
+- Database: ACID Properties
 - Database NoSQL
 - Database Replication
 - Database Sharding
@@ -69,12 +72,12 @@ Keyword from ByteByteGO YT Channel (https://www.youtube.com/@ByteByteGo/videos):
 - Network Protocol: Web Socket
 - Network Protocol: SMTP
 - Network Protocol: FTP
-- OAuth 2.0
 - OS
 - Queries per second
-- Pooling
+- Polling
 - Proxy (Forward/Reverse)
 - Pub/Sub
+- Rate Limiting
 - Redis
 - Requests per second
 - RPC
