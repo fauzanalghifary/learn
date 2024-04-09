@@ -2,6 +2,7 @@
 
 ## Youtube
 
+- https://youtube.com/@SatoriGraphics
 - https://youtube.com/@JesseShowalter
 - https://youtube.com/@MalewiczHype
 - https://youtube.com/@TheFuturAcademy
