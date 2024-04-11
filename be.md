@@ -11,15 +11,18 @@
 - https://youtube.com/@IAmTimCorey (C#)
 - https://youtube.com/@aarondfrancis (PHP)
 
-## Docs
-
-- https://nestjs.com
-- https://guides.rubyonrails.org
-
-## GO
+## Go
 
 - https://go.dev
 - https://quii.gitbook.io/learn-go-with-tests
 - https://gophercises.com
 - https://www.ardanlabs.com/ultimate-go-notebook
 - https://www.alexedwards.net/blog
+
+## Rails
+
+- https://guides.rubyonrails.org
+
+## NodeJS
+
+- https://nestjs.com
