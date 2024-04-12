@@ -22,6 +22,8 @@
 ## Rails
 
 - https://guides.rubyonrails.org
+- https://www.theodinproject.com
+- 
 
 ## NodeJS
 
