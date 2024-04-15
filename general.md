@@ -29,11 +29,12 @@
 - https://youtube.com/@StefanMischook
 - https://youtube.com/@dreamsofcode
 - https://youtube.com/@NoBoilerplate
-- https://www.youtube.com/@codewithryan
-- https://www.youtube.com/@CodeAesthetic
-- https://www.youtube.com/@Coderized
-- https://www.youtube.com/@TravisMedia
-- https://www.youtube.com/@WebDevCody
+- https://youtube.com/@codewithryan
+- https://youtube.com/@CodeAesthetic
+- https://youtube.com/@Coderized
+- https://youtube.com/@TravisMedia
+- https://youtube.com/@WebDevCody
+- https://youtube.com/@InternetOfBugs
 
 ## Youtube (Tutorial)
 
