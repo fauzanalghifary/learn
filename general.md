@@ -9,6 +9,7 @@
 - https://newsletter.pragmaticengineer.com
 - https://www.swyx.io/
 - https://www.bitnative.com/
+- https://daedtech.com/tag/software-engineering/
 
 ## Online Course
 
