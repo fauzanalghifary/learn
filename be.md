@@ -10,6 +10,7 @@
 - https://youtube.com/@ByteByteGo
 - https://youtube.com/@IAmTimCorey (C#)
 - https://youtube.com/@aarondfrancis (PHP)
+- https://youtube.com/@decomplexify (DB)
 
 ## Go
 
