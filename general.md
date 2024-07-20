@@ -50,3 +50,7 @@
 - https://leetcode.com
 - https://hackerrank.com
 - https://algoexpert.io
+
+## Refactoring & Design Pattern
+
+- https://refactoring.guru
