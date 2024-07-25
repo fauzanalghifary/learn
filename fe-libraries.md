@@ -1,4 +1,4 @@
-# Frontend Library
+# Frontend Library / Resources
 
 ## Animation
 
@@ -8,3 +8,8 @@
 ## Icon
 
 - https://lucide.dev/
+
+
+## Responsive Design 
+
+- https://sizzy.co/
