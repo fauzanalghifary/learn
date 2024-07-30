@@ -2,4 +2,4 @@
 
 ## Youtube
 
-- youtube.com/@NetworkChuck
+- https://www.youtube.com/@NetworkChuck
