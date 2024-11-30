@@ -24,7 +24,7 @@
 
 - https://guides.rubyonrails.org
 - https://www.theodinproject.com
-- 
+- https://gorails.com
 
 ## NodeJS
 
