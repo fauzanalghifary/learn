@@ -10,6 +10,7 @@
 - https://www.swyx.io/
 - https://www.bitnative.com/
 - https://daedtech.com/tag/software-engineering/
+- https://quii.dev/archive
 
 ## Online Course
 
