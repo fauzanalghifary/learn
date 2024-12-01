@@ -12,6 +12,10 @@
 - https://daedtech.com/tag/software-engineering/
 - https://quii.dev/archive
 
+## Technical
+
+- https://docs.gitlab.com/ee/development/feature_development.html
+
 ## Online Course
 
 - https://udemy.com
