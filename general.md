@@ -12,6 +12,10 @@
 - https://daedtech.com/tag/software-engineering/
 - https://quii.dev/archive
 
+## Interesting Reads
+
+- https://posthog.com/blog/what-is-a-product-engineer
+
 ## Technical
 
 - https://docs.gitlab.com/ee/development/feature_development.html
