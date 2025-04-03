@@ -1,12 +1,16 @@
 # FRONTEND
 
-## Fundamentals and Practice
+## Practice
 
 - https://greatfrontend.com
 - https://frontendmentor.io
 - https://devchallenges.io
-- https://react.gg
 - https://fe.engineer
+
+## Course
+
+- https://react.gg
+- https://www.totaltypescript.com
 
 ## Blog
 
