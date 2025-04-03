@@ -13,6 +13,7 @@
 - https://totaltypescript.com
 - https://css-for-js.dev
 - https://joyofreact.com
+- https://threejs-journey.com
 
 ## Blog
 
@@ -64,3 +65,5 @@
   - https://lucide.dev
 - Responsive Design
   - https://sizzy.co
+- ThreeJS
+  - https://threejs.org
