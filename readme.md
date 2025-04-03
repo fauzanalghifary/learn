@@ -9,5 +9,4 @@
 - [Backend](be.md)
 - [Frontend](fe.md)
 - [UI UX](ui-ux.md)
-- [Talks](talks.md)
 - [Products](products.md)
