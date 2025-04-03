@@ -20,6 +20,10 @@
 
 - https://udemy.com
 
+## Talks
+
+- https://infoq.com/presentations/lifestyle-software-developer/
+
 ## Youtube
 
 - https://youtube.com/@Fireship
