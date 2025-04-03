@@ -1,3 +1,14 @@
+# Learn
+
+- https://www.designgurus.io
+- https://github.com/donnemartin/system-design-primer
+- https://bytebytego.com
+
+# Youtube
+
+- https://www.youtube.com/@ByteByteGo
+- https://www.youtube.com/@gkcs
+
 # ByteByteGO Youtube Channel
 
 Keyword from ByteByteGO YT Channel (https://www.youtube.com/@ByteByteGo/videos):
