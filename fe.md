@@ -10,7 +10,9 @@
 ## Course
 
 - https://react.gg
-- https://www.totaltypescript.com
+- https://totaltypescript.com
+- https://css-for-js.dev
+- https://joyofreact.com
 
 ## Blog
 
