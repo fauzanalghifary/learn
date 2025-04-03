@@ -14,12 +14,18 @@
 
 ## Go
 
-- https://go.dev
-- https://quii.gitbook.io/learn-go-with-tests
-- https://gophercises.com
-- https://www.ardanlabs.com/ultimate-go-notebook
-- https://www.alexedwards.net/blog
-- https://www.calhoun.io
+- Learn
+  - https://go.dev
+  - https://quii.gitbook.io/learn-go-with-tests
+- Practice
+  - https://gophercises.com
+- Blog
+  - https://alexedwards.net/blog
+  - https://calhoun.io
+- Course
+  - https://lets-go.alexedwards.net
+  - https://lets-go-further.alexedwards.net
+  - https://www.ardanlabs.com/ultimate-go-notebook
 
 ## Rails
 
