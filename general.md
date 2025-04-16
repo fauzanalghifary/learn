@@ -21,6 +21,7 @@
 ## Technical
 
 - https://docs.gitlab.com/ee/development/feature_development.html
+- https://www.ardanlabs.com/blog
 
 ## Online Course
 
