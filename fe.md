@@ -24,6 +24,7 @@
 - https://www.epicweb.dev/articles
 - https://overreacted.io/
 - https://2019.wattenberger.com/blog
+- https://tobiasahlin.com/blog/
 
 ## Youtube
 
