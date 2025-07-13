@@ -21,6 +21,7 @@
 - https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner
 - https://blog.gregbrockman.com/its-time-to-become-an-ml-engineer
 - https://latent.space/p/ai-engineer
+- https://vercel.com/blog/eval-driven-development-build-better-ai-faster
 
 ## Tools
 
