@@ -9,6 +9,7 @@
 
 - https://youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm
 - https://learning.oreilly.com/videos/coding-with-ai/0642572017171
+- https://www.aihero.dev/cohorts/build-deepsearch-in-typescript
 
 ## Blog/Newsletter
 
