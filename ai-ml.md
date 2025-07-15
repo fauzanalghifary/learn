@@ -15,6 +15,7 @@
 
 - https://aihero.dev/posts
 - https://latent.space
+- https://news.smol.ai/
 
 ## Post
 
