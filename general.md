@@ -6,6 +6,7 @@
 
 ## Blog & Newsletter
 
+- https://journalclub.io
 - https://newsletter.pragmaticengineer.com
 - https://registerspill.thorstenball.com
 - https://newsletter.posthog.com
