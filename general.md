@@ -18,6 +18,7 @@
 ## Interesting Reads
 
 - https://posthog.com/blog/what-is-a-product-engineer
+- https://ethanding.substack.com/p/every-company-has-the-same-hiring
 
 ## Technical
 
