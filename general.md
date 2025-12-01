@@ -14,6 +14,7 @@
 - https://bitnative.com
 - https://daedtech.com/tag/software-engineering
 - https://quii.dev/archive
+- https://martinfowler.com
 
 ## Interesting Reads
 
