@@ -9,8 +9,9 @@
 - https://youtube.com/@hnasr
 - https://youtube.com/@ByteByteGo
 - https://youtube.com/@IAmTimCorey (C#)
-- https://youtube.com/@aarondfrancis (PHP)
+- https://youtube.com/@aarondfrancis (PHP/DB)
 - https://youtube.com/@decomplexify (DB)
+- https://www.youtube.com/@NetworkChuck (Network)
 
 ## Go
 
