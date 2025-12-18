@@ -2,7 +2,8 @@
 
 ## Blog & Newsletters
 
-- https://blog.bytebytego.com
+- https://blog.bytebytego.com (SYSTEM DESIGN)
+- https://dave.cheney.net (GO)
 
 ## Youtube
 
@@ -11,7 +12,7 @@
 - https://youtube.com/@IAmTimCorey (C#)
 - https://youtube.com/@aarondfrancis (PHP/DB)
 - https://youtube.com/@decomplexify (DB)
-- https://www.youtube.com/@NetworkChuck (Network)
+- https://www.youtube.com/@NetworkChuck (NETWORK)
 
 ## Go
 
