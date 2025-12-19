@@ -19,8 +19,8 @@
 - Learn
   - https://go.dev
   - https://quii.gitbook.io/learn-go-with-tests
-- Practice
   - https://gophercises.com
+  - https://goperf.dev
 - Blog
   - https://alexedwards.net/blog
   - https://calhoun.io
