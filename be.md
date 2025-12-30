@@ -14,6 +14,10 @@
 - https://youtube.com/@decomplexify (DB)
 - https://www.youtube.com/@NetworkChuck (NETWORK)
 
+## Interesting Reads
+
+- https://loggingsucks.com
+
 ## Go
 
 - Learn
