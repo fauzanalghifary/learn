@@ -1,10 +1,5 @@
 # BACKEND
 
-## Blog & Newsletters
-
-- https://blog.bytebytego.com (SYSTEM DESIGN)
-- https://dave.cheney.net (GO)
-
 ## Youtube
 
 - https://youtube.com/@hnasr
@@ -28,6 +23,7 @@
 - Blog
   - https://alexedwards.net/blog
   - https://calhoun.io
+  - https://dave.cheney.net
 - Course
   - https://lets-go.alexedwards.net
   - https://lets-go-further.alexedwards.net
