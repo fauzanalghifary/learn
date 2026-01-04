@@ -3,6 +3,7 @@
 - https://www.designgurus.io
 - https://github.com/donnemartin/system-design-primer
 - https://bytebytego.com
+- https://blog.bytebytego.com
 
 # Youtube
 
