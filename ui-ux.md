@@ -8,3 +8,7 @@
 - https://youtube.com/@TheFuturAcademy
 - https://youtube.com/@FluxAcademy
 - https://youtube.com/@juxtopposed
+
+## Design Engineering
+
+- https://jakub.kr
