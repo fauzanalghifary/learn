@@ -74,3 +74,7 @@
 ## Refactoring & Design Pattern
 
 - https://refactoring.guru
+
+## Personal Site Reference
+
+- https://jackyef.com
