@@ -19,3 +19,7 @@
 ## Tools
 
 - https://easings.co/
+
+## Book
+
+- https://www.amazon.com/Animation-at-Work-Rachel-Nabors/dp/193755760X
