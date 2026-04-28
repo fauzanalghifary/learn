@@ -6,11 +6,14 @@
 ## Article
 
 - https://blog.maximeheckel.com/posts/the-physics-behind-spring-animations/
+- https://paulgraham.com/taste.html
+- https://www.workingtheorys.com/p/taste-is-eating-silicon-valley
 
 ## Video
 
 - https://developer.apple.com/videos/play/wwdc2018/803/
 - https://developer.apple.com/videos/play/wwdc2023/10158/
+- https://www.youtube.com/watch?v=pCil7YNhNCU
 
 ## Blueprint
 
