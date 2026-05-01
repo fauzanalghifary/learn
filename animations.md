@@ -1,3 +1,9 @@
+## Library
+
+- https://motion.dev/
+- https://gsap.com/
+- https://www.react-spring.dev/
+
 ## Blog
 
 - https://emilkowal.ski/
