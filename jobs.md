@@ -13,3 +13,9 @@
 ## Freelance
 
 - https://www.turing.com
+
+## Personal Site Reference
+
+- https://jackyef.com
+- https://richardmattka.com/
+- https://henryheffernan.com/
