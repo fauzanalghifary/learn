@@ -22,6 +22,7 @@
 - https://developer.apple.com/videos/play/wwdc2023/10158/
 - https://www.youtube.com/watch?v=pCil7YNhNCU
 - https://www.youtube.com/watch?v=DNGGzwmfouU
+- https://developer.apple.com/videos/play/wwdc2023/10194/
 
 ## Blueprint
 
