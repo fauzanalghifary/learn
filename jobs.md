@@ -19,3 +19,4 @@
 - https://jackyef.com
 - https://richardmattka.com/
 - https://henryheffernan.com/
+- https://ritaro.dev/
