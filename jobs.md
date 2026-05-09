@@ -20,3 +20,4 @@
 - https://richardmattka.com/
 - https://henryheffernan.com/
 - https://ritaro.dev/
+- https://agustiansm.id/
