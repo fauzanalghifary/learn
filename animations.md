@@ -15,6 +15,7 @@
 - https://paulgraham.com/taste.html
 - https://www.workingtheorys.com/p/taste-is-eating-silicon-valley
 - https://www.joshuawootonn.com/sidebar-animation-performance
+- https://tobiasahlin.com/blog/meaningful-motion-w-action-driven-animation/
 
 ## Video
 
@@ -23,6 +24,7 @@
 - https://www.youtube.com/watch?v=pCil7YNhNCU
 - https://www.youtube.com/watch?v=DNGGzwmfouU
 - https://developer.apple.com/videos/play/wwdc2023/10194/
+- https://www.youtube.com/watch?v=ZfytHvgHybA
 
 ## Blueprint
 
